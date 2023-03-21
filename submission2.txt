@@ -4,9 +4,9 @@ Task-2 https://www.youtube.com/
 
 Public link to the slide (Anyone on the internet can view without login): Task-2 https://docs.google.com/presentation/
 
-Paper title: Implementation of an Optical Character Reader(OCR) for Bengali Language
+Paper title: A Complete Workflow for Development of Bangla OCR 
 
-Link to the paper: https://sci-hub.hkvisa.net/10.1109/ICODSE.2015.7436984
+Link to the paper: https://arxiv.org/ftp/arxiv/papers/1204/1204.1198.pdf
 
 Group Number: 27
 
