@@ -1,8 +1,7 @@
-Link to unlisted YouTube video:
-
+Link to unlisted YouTube video: 
 Task-2 https://www.youtube.com/
 
-Public link to the slide (Anyone on the internet can view without login):
+Public link to the slide (Anyone on the internet can view without login): 
 Task-2 https://docs.google.com/presentation/
 
 Paper title:
@@ -15,5 +14,5 @@ https://sci-hub.hkvisa.net/10.1109/ICODSE.2015.7436984
 Group Number: 
 27
 
-Individual Submitter:
+Individual Submitter: 
 20101554 Faiza Bushra
