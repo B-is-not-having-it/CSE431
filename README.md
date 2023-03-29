@@ -1,18 +1,22 @@
-Link to unlisted YouTube video: 
-Task-2 https://www.youtube.com/
-
-Public link to the slide (Anyone on the internet can view without login): 
-Task-2 https://docs.google.com/presentation/
-
-Paper title:
-Implementation of an Optical Character Reader(OCR) for Bengali Language 
+Overleaf link with edit access to ST, RA and my gmail.
+https://www.overleaf.com/1781669765dbdjgbcrryqf
 
 
-Link to the paper:
-https://sci-hub.hkvisa.net/10.1109/ICODSE.2015.7436984
+Link to unlisted YouTube video:
+Task-1 : https://youtu.be/VoeNYkVz_mk
 
-Group Number: 
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1kLF4Tz8RaM3W15-UnSqvi6xZKv8NtZSKAJVfqx4_iBs/edit?usp=sharing
+
+
+Project title:
+Utilizing Optical Character Recognition to Summarize Bengali text
+
+Group Number:
 27
 
-Individual Submitter: 
-20101554 Faiza Bushra
+Group Members:
+20101440 Name Abhijit Saha
+20101554 Name Faiza Bushra
+20301077 Name Ahmed Anwar
+20301267 Name Rubaba Rashid
