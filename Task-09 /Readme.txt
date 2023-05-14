@@ -7,7 +7,7 @@ https://olympus.mygreatlearning.com/courses/88848
 
 Certification:
 https://olympus.mygreatlearning.com/courses/88848/certificate
- 
+link: https://github.com/B-is-not-having-it/CSE431/blob/main/Certificate%20-%20Great%20Learning.pdf 
 
 
 completed youtube video:
